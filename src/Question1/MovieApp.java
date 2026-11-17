@@ -1,3 +1,5 @@
+package Question1;
+
 public class MovieApp {
     public static void main(String[] args) {
         // Single-dimensional arrays for movies and months
